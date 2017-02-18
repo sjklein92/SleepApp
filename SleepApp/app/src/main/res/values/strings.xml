@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SleepApp</string>
+    <string name="clock_display">TIME</string>
+    <string name="button_set">Set</string>
+</resources>
