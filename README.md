@@ -1,2 +1,2 @@
 # SleepApp
-Android app to set alarm clock and play music
+Personal Android test project
